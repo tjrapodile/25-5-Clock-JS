@@ -29,10 +29,10 @@ style.css- Contains the CSS styles for the application's layout and design.
 index.js- Implements the JavaScript logic for timer functionality, including start/stop controls, countdown updates, and audio alerts.
 
 Copy code
-git clone https://github.com/tjrapodile/25-5Clock-JS.git
+git clone https://github.com/tjrapodile/25-5-Clock-JS.git
 
 Navigate to the project directory:
-cd 25-5Clock-JS
+cd 25-5-Clock-JS
 
 Open index.html in your web browser to view and interact with the timer application.
 
